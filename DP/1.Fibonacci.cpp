@@ -4,7 +4,7 @@
 //we are gonna simply return for exaple when f(2) answer 1 in the dp array we will mark 
 //the 2nd index as the 1 since which is the answer so when ever we are seeing the f(2) 
 //instead of doing recursion again and again we can simply return dp[n] by doing this 
-//we can reduce the space complexitu
+//we can reduce the space complexity
 
 //code using memoization method
 
